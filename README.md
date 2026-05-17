@@ -19,4 +19,6 @@ The link to my third iteration is here-https://editor.p5js.org/sethebrewer/sketc
 This design features a blue streak within the sky- as in teh orignal album cover, furthermore I fixed the waves and boat height so that the waves cant go over the boat.  
 Overall, I am happy with how this project turned out, and I believe that I understand a lot more of the syntax used within javascript. However, I would say my weakness is the maths used in calculating the shapes and their movement, as I either have to look it up or use an AI model to calculate it.
 
+## Project 2
+
 
