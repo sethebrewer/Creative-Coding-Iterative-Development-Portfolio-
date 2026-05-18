@@ -22,7 +22,7 @@ Overall, I am happy with how this project turned out, and I believe that I under
 ## Project 2
 
 For this project I chose the option where we could create a program that interacted with the users mouse. In addition, I chose an artist who I listen to frequently; Destroy Lonely. The album cover of his which I decided to redesign is from NO STYLIST deluxe.  
-[Here is the link for the first version] (/ns1/index.html) 
+[Here is the link for the first version](/ns1/index.html) 
 For this iteration I decided to just do the sunset and background. Initially I couldnt get the sunset to move, but had the code framework to make it cycle through- this is fixed in the next iteration. To create the sunset I layered multiple rectangles on top of eachother- daing the colour from orange to blue as they went out.  
 [Here is the link for the second one](/ns2/index.html)
 For this iteration I made stars that, when the mouse is near, chnage from circles to star shapes. To do this I used the dist function to establish the mouse position and whenever the mouse was within 50px, the shape would change. I also inlcuded the slow moving susnet- which leaves the screen on the right side and joins on the left.  
@@ -40,7 +40,7 @@ My next task was to create the earth and have it revolve. I asked chatGPT to hel
 I then used the rotate function within draw, adding a value every frame to make the earth spin- I continued this with all elements. The cup was more of the same, but with even more complex maths. I tried to work it out myself, however the cylinder, along with teh rim of the cup was too much for my maths so I researched how to do it. It does this by creating a 'ring' meshing triangles together within a circle. I then repeated this but more compact for the rim, and then created a simple cirlce for the base. My next step was to lock the liquid within the edge of the cup to give the illsuion of liquid. I achieved this by randomising where the particles started and then rotating the whole thing together. My next step was the flowers.  
 These were a lot more simple shapes, and I just created a centre circle with six smaller ones around it. I then applied a random orbit for these elements- smae as with the cup.  
 The finishing touch was the title, which just consisted of downloading a google font and using the various text functions within p5. 
-The difference between my first 2 iterations are the colours and the abundance of flowers. The first is less true to the original, and has less flowers. Here are the links: [1st ](/wod1/index.html)    [2nd] (/wod2/index.html)
+The difference between my first 2 iterations are the colours and the abundance of flowers. The first is less true to the original, and has less flowers. Here are the links: [1st ](/wod1/index.html)    [2nd](/wod2/index.html)
 For the third iteration, I kept the black background from the first and the abundance of flowers from the second. I then wrapped the title around the earth. To achieve this I changed the angle each iteration, to align with the speed of the earth. While my maths skills were lacking, I just did alot of trial and error to achieve the result, as I had done a lot of research previously, along with AI help for the first couple of rotating elements. 
 [Here is the link: https](/wod3/index.html)
 
