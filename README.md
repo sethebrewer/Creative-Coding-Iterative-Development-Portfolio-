@@ -12,7 +12,7 @@ the design slightly as it would be near impossible to recreate the paint strokes
 [The link to my first iteration is here](/dave1/index.html)
 This first design included creating thousands of lines with random lengths and tilts, that created the skyline. I was very happy with this concept after I had used multiple sources such as w3 schools and codecademy to grasp handling shapes in p5.   
 The wave design was something that Dave(teacher not the artist) had gone through in class. I then compartmentalised it in 50pc by 50px squares- meaning I could adjust the colour with higher precision.  
-[The link to my second iteration is here](/dave2/index.html)
+[The link to my second iteration is here](/dave2real/index.html)
 For this design I threw away the rugged look of the blocks of waves and created them to be the width of the canvas and increasing their density. I prefer this look as it looks more natural and the colours fade nicely,  
 however it doesnt stay as true to the original album.  
 [The link to my third iteration is here](/dave3/index.html)
