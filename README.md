@@ -22,9 +22,9 @@ Overall, I am happy with how this project turned out, and I believe that I under
 ## Project 2
 
 For this project I chose the option where we could create a program that interacted with the users mouse. In addition, I chose an artist who I listen to frequently; Destroy Lonely. The album cover of his which I decided to redesign is from NO STYLIST deluxe.  
-[Here is the link for the first version](/ns1/index.html) 
+[Here is the link for the first version](/ns2/index.html) 
 For this iteration I decided to just do the sunset and background. Initially I couldnt get the sunset to move, but had the code framework to make it cycle through- this is fixed in the next iteration. To create the sunset I layered multiple rectangles on top of eachother- daing the colour from orange to blue as they went out.  
-[Here is the link for the second one](/ns2/index.html)
+[Here is the link for the second one](/ns1/index.html)
 For this iteration I made stars that, when the mouse is near, chnage from circles to star shapes. To do this I used the dist function to establish the mouse position and whenever the mouse was within 50px, the shape would change. I also inlcuded the slow moving susnet- which leaves the screen on the right side and joins on the left.  
 I then used simple shapes to create the shadow of the person in the cover, who is predominantly visible when teh senset rotates behind him.  
 [Here is the link for the third version](/ns3/index.html)
