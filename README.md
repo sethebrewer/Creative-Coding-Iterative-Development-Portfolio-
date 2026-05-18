@@ -42,7 +42,7 @@ These were a lot more simple shapes, and I just created a centre circle with six
 The finishing touch was the title, which just consisted of downloading a google font and using the various text functions within p5. 
 The difference between my first 2 iterations are the colours and the abundance of flowers. The first is less true to the original, and has less flowers. Here are the links: [1st ](/wod1/index.html)    [2nd](/wod2/index.html)
 For the third iteration, I kept the black background from the first and the abundance of flowers from the second. I then wrapped the title around the earth. To achieve this I changed the angle each iteration, to align with the speed of the earth. While my maths skills were lacking, I just did alot of trial and error to achieve the result, as I had done a lot of research previously, along with AI help for the first couple of rotating elements. 
-[Here is the link: https](/wod3/index.html)
+[Here is the link](/wod3/index.html)
 
 Overall, I am very happy with this project. While it was very mathematically challenging, the use of W3 schools and generative AI meant that I could produce a program that I wouldn't have been able to otherwise, due to logic and mathmatical limitaions of using cos, and sin, along with PI- which I am not as familiar with. While I like the first to iterations, the final one is what I believe is the best- and while it is more realistic than the original, I believe it still resembles it. Furthermore, I believe that my confidence has grown as a result of thia final project, as I was forced to incorporate techniques and understand them through the application regarding my specific program.  
 
