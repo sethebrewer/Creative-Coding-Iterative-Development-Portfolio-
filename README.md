@@ -13,9 +13,9 @@ The link to my first iteration is here- https://editor.p5js.org/sethebrewer/sket
 This first design included creating thousands of lines with random lengths and tilts, that created the skyline. I was very happy with this concept after I had used multiple sources such as w3 schools and codecademy to grasp handling shapes in p5.   
 The wave design was something that Dave(teacher not the artist) had gone through in class. I then compartmentalised it in 50pc by 50px squares- meaning I could adjust the colour with higher precision.  
 The link to my second iteration is here-https://editor.p5js.org/sethebrewer/sketches/odOXNWRu9  
-For this design I threw away the rugged look of the blocks of waves and created them to be the width of the canvas and increasing their density. I prefer this look as it looks more natural and teh colours fade nicely,  
+For this design I threw away the rugged look of the blocks of waves and created them to be the width of the canvas and increasing their density. I prefer this look as it looks more natural and the colours fade nicely,  
 however it doesnt stay as true to the original album.  
-[The link to my third iteration is here](/Creative-Coding-Iterative-Development-Portfolio-/<dave3>/index.html  
+[The link to my third iteration is here](/<dave3>/index.html)
 This design features a blue streak within the sky- as in teh orignal album cover, furthermore I fixed the waves and boat height so that the waves cant go over the boat.  
 Overall, I am happy with how this project turned out, and I believe that I understand a lot more of the syntax used within javascript. However, I would say my weakness is the maths used in calculating the shapes and their movement, as I either have to look it up or use an AI model to calculate it.
 
